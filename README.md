@@ -1,3 +1,4 @@
+this is for the hub technologies website once i finished pushing every component i am going to edit the name of this repository and deploy it in vercle or pprivate hosting services like yegara host 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
